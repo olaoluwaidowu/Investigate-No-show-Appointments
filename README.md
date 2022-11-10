@@ -10,7 +10,7 @@
 
 ## Summary of Findings
 
-> Adult group kept appointments more that other age groups
+> Adult group kept appointments more that other age groups.
 
 > There is no significant difference between those who have scholarship and those who don't. 
 Having a scholarship for appointments may not affect patient's decision to show up for appointment.
