@@ -18,8 +18,6 @@ Having a scholarship for appointments may not affect patient's decision to show 
 
 ## Limitations
 
-> I am unable to ascertian if giving scholarship will help patients keep to appointments without further statistical test
-
-> 90.1% of the trips are by subscribers
+> I am unable to ascertian if giving scholarship will help patients keep to appointments without further statistical test.
 
 > Unavailability of statitistics of age groupings in brazil. The population is brazil, the age grouping in the country could be different to that of canada used in this analysis
