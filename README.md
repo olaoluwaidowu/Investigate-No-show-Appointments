@@ -5,19 +5,19 @@
 
 ## "No-show Appointments" dataset
 
-> This dataset is on medical appointments in brazil and it is focused on whether or not a patient a patient show up for their appointment. The dataset was downloaded from kaggle.
+> This dataset is on medical appointments in Brazil and it is focused on whether or not a patient a patient shows up for their appointment. The dataset was downloaded from Kaggle.
 
 
 ## Summary of Findings
 
-> Adult group kept appointments more that other age groups.
+> The adult group kept appointments more than other age groups.
 
-> There is no significant difference between those who have scholarship and those who don't. 
-Having a scholarship for appointments may not affect patient's decision to show up for appointment.
+> There is no significant difference between those with scholarships and those without. 
+Having a scholarship for appointments may not affect a patient's decision to show up for an appointment.
 
 
 ## Limitations
 
-> I am unable to ascertian if giving scholarship will help patients keep to appointments without further statistical test.
+> I cannot ascertain if giving scholarships will help patients keep to appointments without further statistical tests.
 
-> Unavailability of statitistics of age groupings in brazil. The population is brazil, the age grouping in the country could be different to that of canada used in this analysis
+> Unavailability of statistics on age groupings in Brazil. The age grouping in the country could be different from that of Canada used in this analysis
